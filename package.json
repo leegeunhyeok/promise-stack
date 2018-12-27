@@ -1,0 +1,19 @@
+{
+  "name": "promise-stack",
+  "version": "1.0.0",
+  "description": "Multiple asynchronous processing libraries",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ./test/test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leegeunhyeok/promise-stack.git"
+  },
+  "author": "Leegeunhyeok",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/leegeunhyeok/promise-stack/issues"
+  },
+  "homepage": "https://github.com/leegeunhyeok/promise-stack#readme"
+}
